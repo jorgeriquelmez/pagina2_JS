@@ -1,0 +1,77 @@
+body {
+    max-width: 100%;
+}
+
+header {
+    background-color: #89A8B2;
+    text-align: center;
+    height: 4rem;
+    position: relative;
+    padding-top: 0.5rem;
+}
+
+.clickFoto {
+    background-color: #b9d5ded1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.clickFoto img {
+    width: 350px;
+    height: 350px;
+    margin:  50px 50px 50px 130px;
+    display: block;
+
+}
+
+.titulo {
+    text-align: left;
+}
+
+.marco {
+    border: 2px solid red;
+}
+
+.galeria {
+    background-color: #B3C8CF;
+    padding: 50px 0;
+}
+
+.card {
+    padding: 5px;
+    margin: 10px;
+}
+
+.chequeo {
+    justify-items: center;
+    margin-top: 50px;
+
+}
+
+.validador {
+    justify-items: center;
+}
+
+.codigo {
+    justify-items: center;
+    background-color: #E5E1DA;
+    padding: 20px 0;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.clave {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #F1F0E8;
+    text-align: center;
+    padding: 10px 0
+}
